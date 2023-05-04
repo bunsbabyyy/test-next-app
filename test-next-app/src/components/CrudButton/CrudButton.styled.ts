@@ -1,6 +1,7 @@
 import styled from 'styled-components';
 
 export const CrudButtonWrapper = styled.div`
+  display: block;
 `;
 
 export const Button = styled.button`

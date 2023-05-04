@@ -27,3 +27,7 @@
   width: var(--max-width);
   max-width: 100%;
 }
+
+.input {
+  height: 100px;
+}
